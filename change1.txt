@@ -1,2 +1,4 @@
-this is my first try
-smb changed this file
+1. Initial one
+2. this is my first try
+3. smb changed this file
+4. try use GUI optio
