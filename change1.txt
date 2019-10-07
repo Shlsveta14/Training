@@ -1,4 +1,7 @@
 1. Initial one
 2. this is my first try
 3. smb changed this file
-4. try use GUI optio
+4. try use GUI option
+
+5. Verify revert command
+-------------------------
