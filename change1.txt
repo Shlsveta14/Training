@@ -5,6 +5,9 @@
 
 5. Verify revert command
 -------------------------
+
  1st change in master
+
+2nd change from feature
 
 
